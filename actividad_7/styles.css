@@ -1,0 +1,22 @@
+.container {
+    font-size: 40px;
+    width: 100%;
+    background-color: LightGray;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-gap: 10px;
+
+
+}
+
+.d1 { background-color: #FF6B6B; }
+.d2 { background-color: #4ECDC4; }
+.d3 { background-color: #45B7D1; }
+.d4 { background-color: #FFA07A; }
+.d5 { 
+    background-color: #98FB98; 
+    display: grid;
+    grid-column: 2/4;
+}
+
