@@ -3,17 +3,12 @@
     width: 100%;
     background-color: LightGray;
     display: grid;
-<<<<<<< HEAD
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
     column-gap: 20px;
 
 }
-=======
 
-
-
->>>>>>> 2321a68f160753fae06d22c54427ac65298c988c
 .d1 { background-color: #FF6B6B; }
 .d2 { background-color: #4ECDC4; }
 .d3 { background-color: #45B7D1; }
